@@ -4,6 +4,8 @@
 
 package clase.pruebaed_2a_ivancompanon;
 
+import instituto.Persona;
+
 /**
  *
  * @author Diurno
